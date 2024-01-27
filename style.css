@@ -1,0 +1,147 @@
+.A {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.firdiv {
+    border: 2px solid black;
+    height: auto;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: sticky;
+    top: 0%;
+
+}
+#C:hover {
+    transform: scale(1.1);
+    transform: 1s;
+    color: blue;
+    cursor: pointer;
+}
+
+.D {
+    display: inline-block;
+    align-content:space-evenly;
+    padding: 0% 40px;
+    
+}
+
+.Dd {
+    width: 100px;
+    height: 5vh;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+
+}
+
+.F {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.G {
+    height: 1px;
+}
+
+.S {
+    padding-left: 80px;
+    color: gray;
+}
+
+.E {
+    padding-left: 80px;
+}
+
+.X:hover {
+    transition: 1s;
+    border: 2px solid blue;
+
+}
+#D {
+    width: 60%;
+    
+}
+
+.K {
+    padding-left: 133px;
+}
+
+.k {
+    margin: 150px auto;
+
+}
+.K {
+    float: left;
+    margin-right: 15px;
+}
+
+.J {
+    margin: 120px;
+}
+
+
+.W {
+    width: 40%;
+}
+
+#Uc {
+    padding-left: 133px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+}
+
+#U {
+    padding-left: 133px;
+
+}
+
+.ab:hover {
+    transform: scale(1);
+    transition: 1s;
+    border: 1px solid blue;
+
+}
+
+
+.nindiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 90%;
+    gap: 20px;
+}
+
+.to:hover {
+    transform: scale(1);
+    transition: 1s;
+    border: 2px solid blue;
+
+}
+
+.too:hover {
+    transform: scale(1);
+    transition: 1s;
+    border: 2px solid blue;
+
+}
+
+.KK{
+    width: 90%;
+    height: 8vh;
+    border: 2px solid blue;
+    color: blue;
+}
+
+.NN{
+    display: inline;
+
+}
+.elvdiv {
+    padding-left: 50px;
+}
